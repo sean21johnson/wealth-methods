@@ -1,0 +1,6 @@
+const main = document.getElementsById("main")
+const main = document.getElementsById("show-millionaires")
+const main = document.getElementsById("add-user")
+const main = document.getElementsById("double")
+const main = document.getElementsById("sort")
+const main = document.getElementsById("calculate-wealth")
